@@ -1,5 +1,6 @@
 # dockerTest-css
-## Docker commands
+<h2> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/horizontal-logo-monochromatic-white.png?itok=SBlK2TGU" alt="drawing" width="100"/> commands</h2>
+
 (in WINDOWS use PowerShell, avoid git bash & cmd)
 
 ### Run in dev file change reactive
